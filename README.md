@@ -1,2 +1,1 @@
-# CalculatorLibrary-master
-CalculatorLibrary-master
+# CalculatorLibrary
