@@ -5,6 +5,8 @@ import calculator
 
 
 class TestCalculator:
+    """Class for Unit tests for the calculator library."""
+    
 
     def test_addition(self):
         """Check the sum of first and second params."""
