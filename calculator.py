@@ -2,7 +2,7 @@
 
 
 def add(first_term, second_term):
-    '''Calculate the sum of first and second params.'''
+    """Calculate the sum of first and second params."""
     return first_term + second_term
 
 
