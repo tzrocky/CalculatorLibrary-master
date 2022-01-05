@@ -5,12 +5,12 @@ import calculator
 
 
 class TestCalculator:
-    """Class for Unit tests for the calculator library."""
+    """Class for Unit tests for the calculator library.""" 
     
     def test_addition(self):
         """Check the sum of first and second params."""
         assert 4 == calculator.add(2, 2)
-
+        
     def test_subtraction(self):
         """Check the substract of first and second params."""
         assert 2 == calculator.subtract(4, 2)
